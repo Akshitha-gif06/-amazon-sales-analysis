@@ -1,0 +1,12 @@
+AMAZON SALES ANALYSIS SUMMARY
+==================================================
+
+Total Sales: $83,309,170.25
+Total Orders: 128,976
+
+TOP CATEGORIES:
+1. T-shirt: $41,168,771.65
+2. Shirt: $23,211,990.08
+3. Blazzer: $11,697,289.12
+4. Trousers: $5,622,166.30
+5. Perfume: $829,349.66
