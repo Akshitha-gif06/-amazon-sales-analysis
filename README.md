@@ -19,25 +19,24 @@ Comprehensive analysis of Amazon sales data to extract actionable business insig
 ### Prerequisites
 - Python 3.7 or higher
 - Jupyter Notebook
+# Amazon Sales Analysis Project
 
-### Installation
-1. Clone this repository:
-```bash
-git clone https://github.com/Akshitha-gif06/-amazon-sales-analysis
-cd amazon-sales-analysis
+## What's in this project?
+1. Jupyter Notebook with complete code
+2. Amazon sales dataset
+3. Analysis results and charts
+4. Summary report
 
-pip install -r requirements.txt
-
-jupyter notebook Amazon_Sales_Analysis.ipynb
-
+## How to run?
+1. Download the files
+2. Open Amazon_Sales_Analysis.ipynb in Jupyter
+3. Run all cells
 
 **Save the file.**
 
----
+## UPLOAD TO GITHUB**
 
-## **PART 6: UPLOAD TO GITHUB**
-
-### **Step 11: Upload via GitHub Desktop**
+###Upload via GitHub Desktop**
 1. Open GitHub Desktop
 2. You should see your repository already selected
 
@@ -54,7 +53,7 @@ jupyter notebook Amazon_Sales_Analysis.ipynb
    - Click **"Push origin"** button (top right)
    - Wait for it to complete
 
-### **Step 12: Verify Upload**
+## Verify Upload**
 1. Go to your GitHub repository page
 
 2. You should see all your files!
@@ -62,16 +61,16 @@ jupyter notebook Amazon_Sales_Analysis.ipynb
 
 ---
 
-## **PART 7: ADD VISUALIZATIONS TO README**
+##ADD VISUALIZATIONS TO README**
 
-### **Step 13: Upload Images to GitHub**
+#Upload Images to GitHub**
 1. Go to your repository on GitHub
 2. Click **"Add file" → "Upload files"**
 3. Drag and drop your `sales_analysis_summary.png`
 4. Add commit message: `Add analysis visualizations`
 5. Click **"Commit changes"**
 
-### **Step 14: Make README More Visual**
+## Make README More Visual**
 Update your README.md again (in GitHub Desktop):
 
 ```markdown
