@@ -1,4 +1,4 @@
-# -amazon-sales-analysis
+# Amazon-sales-analysis
 Comprehensive analysis of Amazon sales data
 # 📊 Amazon Sales Report Analysis
 
